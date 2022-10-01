@@ -2066,4 +2066,35 @@ DP.PropEmotes = {
        EmoteLoop = true,
        EmoteMoving = true,
    }},
+   -- Mos Gang Sign
+   ["2head"] = {"2man2head@animation", "2man2head_clip", "~p~ 2 Man 2 Head", AnimationOptions =
+   {
+    EmoteLoop = true,
+    EmoteMoving = false,
+   }},
+   ["2fucku"] = {"2manfcku@animation", "2manfcku_clip", "~p~ 2 Man Fuck u", AnimationOptions =
+   {
+       EmoteLoop = true,
+       EmoteMoving = false,
+   }},
+   ["hd"] = {"hatsdown@animation", "hatsdown_clip", "~r~ Hats Down", AnimationOptions =
+   {
+    EmoteLoop = true,
+    EmoteMoving = false,
+   }},
+   ["od"] = {"offthat@animation", "offthat_clip", "~p~ Off that", AnimationOptions =
+   {
+    EmoteLoop = true,
+    EmoteMoving = false,
+   }},
+   ["so"] = {"standon@animation", "standon_clip", "~g~ Top Car", AnimationOptions =
+   {
+    EmoteLoop = true,
+    EmoteMoving = false,
+   }},
+   ["westbaby"] = {"westbaby@animation", "westbaby_clip", "~o~ WestSide", AnimationOptions =
+   {
+    EmoteLoop = true,
+    EmoteMoving = false,
+   }},
 }
