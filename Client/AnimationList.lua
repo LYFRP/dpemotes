@@ -2097,4 +2097,34 @@ DP.PropEmotes = {
     EmoteLoop = true,
     EmoteMoving = false,
    }},
+      ["mog1"] = {"mogangsign1@animation", "mogangsign1_clip", "Gang Sign 1 ~r~. MODON", AnimationOptions =
+   {
+       EmoteLoop = true,
+       EmoteMoving = false,
+   }},
+   ["mop1"] = {"mopose1@animation", "mopose1_clip", "Chill Pose 1~o~. MODON", AnimationOptions =
+   {
+       EmoteLoop = true,
+       EmoteMoving = false,
+   }},
+   ["mop2"] = {"mopose2@animation", "mopose2_clip", "Chill Pose 2~o~. MODON", AnimationOptions =
+   {
+       EmoteLoop = true,
+       EmoteMoving = false,
+   }},
+   ["mop3"] = {"mopose3@animation", "mopose3_anim", "Chill Pose 3~o~. MODON", AnimationOptions =
+   {
+       EmoteLoop = true,
+       EmoteMoving = false,
+   }},
+   ["mop4"] = {"mopose4@animation", "mopose4_clip", "Chill Pose 4~o~. MODON", AnimationOptions =
+   {
+       EmoteLoop = true,
+       EmoteMoving = false,
+   }},
+   ["mop5"] = {"mopose5@animation", "mopose5_clip", "Chill Pose 5~o~. MODON", AnimationOptions =
+   {
+       EmoteLoop = true,
+       EmoteMoving = false,
+   }},
 }
