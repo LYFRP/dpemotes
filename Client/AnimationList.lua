@@ -2097,7 +2097,7 @@ DP.PropEmotes = {
     EmoteLoop = true,
     EmoteMoving = false,
    }},
-      ["mog1"] = {"mogangsign1@animation", "mogangsign1_clip", "Gang Sign 1 ~r~. MODON", AnimationOptions =
+   ["mog1"] = {"mogangsign1@animation", "mogangsign1_clip", "Gang Sign 1 ~r~. MODON", AnimationOptions =
    {
        EmoteLoop = true,
        EmoteMoving = false,
